@@ -41,6 +41,7 @@ fn main() {
     println!("{}", num_from_str);
 
     println!("PRA QIONAAS");
+    println!("PRA QIONAAS");
 }
 
 fn give_me<T>(value: T) -> T {
